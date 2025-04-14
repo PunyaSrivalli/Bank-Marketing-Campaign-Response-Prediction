@@ -96,7 +96,6 @@ Binary classification problem:
 | F1-score            | **95.23%** |
 | % Variance Explained (RF) | **41.63%** |
 
-- **Best Performing Model**: Random Forest
 - Successfully captured high-value target segments.
 - Demonstrated excellent recall for subscribed customers (critical for marketing use cases).
 
